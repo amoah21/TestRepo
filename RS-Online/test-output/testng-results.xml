@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-02T22:08:23 GMT" name="Default suite" finished-at="2020-12-02T22:08:36 GMT" duration-ms="12774">
+    <groups>
+    </groups>
+    <test started-at="2020-12-02T22:08:23 GMT" name="Default test" finished-at="2020-12-02T22:08:36 GMT" duration-ms="12774">
+      <class name="TestCases.TC01_QuickOrder">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCases.TC01_QuickOrder@4445629]" started-at="2020-12-02T22:08:23 GMT" name="setup" finished-at="2020-12-02T22:08:32 GMT" duration-ms="9247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InputStockNumbers()[pri:0, instance:TestCases.TC01_QuickOrder@4445629]" started-at="2020-12-02T22:08:32 GMT" name="InputStockNumbers" finished-at="2020-12-02T22:08:33 GMT" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InputStockNumbers -->
+        <test-method signature="InputQuantity()[pri:1, instance:TestCases.TC01_QuickOrder@4445629]" started-at="2020-12-02T22:08:33 GMT" name="InputQuantity" finished-at="2020-12-02T22:08:33 GMT" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InputQuantity -->
+        <test-method signature="AddToBasket()[pri:2, instance:TestCases.TC01_QuickOrder@4445629]" started-at="2020-12-02T22:08:33 GMT" name="AddToBasket" finished-at="2020-12-02T22:08:36 GMT" duration-ms="2846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToBasket -->
+      </class> <!-- TestCases.TC01_QuickOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
