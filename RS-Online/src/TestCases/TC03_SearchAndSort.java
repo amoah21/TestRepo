@@ -1,4 +1,7 @@
 /*
+ * AS a customer
+ * I WANT to use keywords to search for and sort a list of items 
+ * SO that I can make an informed decision about my purchase 
  * 
  */
 

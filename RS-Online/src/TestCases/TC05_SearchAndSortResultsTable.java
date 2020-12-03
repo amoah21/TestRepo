@@ -1,4 +1,7 @@
 /*
+ * AS a customer
+ * I WANT sort my narrowed product search by specific product related criteria 
+ * SO that I can make an informed decision about my purchase 
  * 
  */
 

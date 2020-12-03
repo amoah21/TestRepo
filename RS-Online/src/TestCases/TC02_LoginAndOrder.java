@@ -1,4 +1,7 @@
 /*
+ * AS an account holding customer
+ * I WANT to browse through the products catalogue 
+ * SO that I can view a range of items to add to my order 
  * 
  */
 

@@ -1,4 +1,7 @@
 /*
+ * AS a customer
+ * I WANT to filter items by specific criteria 
+ * SO that I can make an informed decision about my purchase 
  * 
  */
 

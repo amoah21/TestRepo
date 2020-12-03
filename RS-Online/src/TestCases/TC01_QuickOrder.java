@@ -1,3 +1,10 @@
+/*
+ * AS A customer
+ * I WANT to use the items stock number
+ * SO that i can quickly order items 
+ * 
+ */
+
 package TestCases;
 
 import org.testng.annotations.BeforeTest;
